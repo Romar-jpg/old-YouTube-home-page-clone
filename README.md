@@ -3,7 +3,7 @@
 A static clone of YouTube’s classic home page built with HTML and CSS. This project was created as practice for web development and front-end design.
 
 ## Live Demo
-🔗 [View Website](https://Romar-jpg.github.io/youtube-landing-clone/)
+🔗 [View Website](https://romar-jpg.github.io/old-YouTube-home-page-clone)
 
 ## Project Structure
 ```
