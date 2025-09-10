@@ -35,3 +35,6 @@ youtube-landing-clone/
 ## Technologies Used
 - HTML5
 - CSS3
+
+## Preview
+![YouTube Clone Screenshot](old-YouTube-homepage-clone/screenshot.png)
