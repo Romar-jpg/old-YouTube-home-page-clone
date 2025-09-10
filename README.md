@@ -21,9 +21,9 @@ youtube-landing-clone/
 │ ├── thumbnail-2.jpg
 │ └── ... (other thumbnail images)
 │── /channel-pictures
-├── channel-1.jpg
-├── channel-2.jpg
-└── ... (other channel pictures)
+│ ├── channel-1.jpg
+│ ├── channel-2.jpg
+│ └── ... (other channel pictures)
 
 ## Features
 - Recreated layout of YouTube’s old home page
