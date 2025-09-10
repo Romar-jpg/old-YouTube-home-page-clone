@@ -37,4 +37,4 @@ youtube-landing-clone/
 - CSS3
 
 ## Preview
-![YouTube Clone Screenshot](old-YouTube-homepage-clone/screenshot.png)
+![YouTube Clone Screenshot](old-YouTube-home-page-clone/screenshot.png)
