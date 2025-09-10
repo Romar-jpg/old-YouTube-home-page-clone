@@ -6,6 +6,7 @@ A static clone of YouTube’s classic home page built with HTML and CSS. This pr
 🔗 [View Website](https://Romar-jpg.github.io/youtube-landing-clone/)
 
 ## Project Structure
+```
 youtube-landing-clone/
 │── youtube.html
 │── /yt_styles
@@ -24,6 +25,7 @@ youtube-landing-clone/
 │ ├── channel-1.jpg
 │ ├── channel-2.jpg
 │ └── ... (other channel pictures)
+```
 
 ## Features
 - Recreated layout of YouTube’s old home page
